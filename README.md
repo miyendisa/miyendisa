@@ -1,7 +1,9 @@
-### Hi there👋 
-I'm Aslıhan from Turkey.
+                                                                            ## Hi there👋 
+                                                                         
+                                                                  A passionate and self-taught engineer
+---
 
-
+I'm Aslıhan from Turkey. 
 
 
 - 👀 I’m interested in ...
