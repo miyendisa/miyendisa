@@ -1,8 +1,7 @@
-                                                                            ## Hi there👋 
-                                                                         
-                                                                  A passionate and self-taught engineer
----
+                                                              A passionate and self-taught engineer
 
+---
+## Hi there👋 
 I'm Aslıhan from Turkey. 
 
 
