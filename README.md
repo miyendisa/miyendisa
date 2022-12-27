@@ -4,7 +4,7 @@
 ## Hi there👋 
 I'm Aslıhan from Turkey, and I am an engineer trying to improve myself in the field of software.
 
-- 👀 I’m interested in Backend Web Development
+- 👀 I’m interested in Backend Web Development and Data Science
 - 🌱 I’m currently learning Java
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/asl%C4%B1hanhasar)
 
